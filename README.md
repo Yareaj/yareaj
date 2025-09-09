@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Currentyl working on [🐶 Koira](https://koira.bot)/h3>
+<h3 align="left">Currently working on [🐶 Koira](https://koira.bot)</h3>
 
 ###
 

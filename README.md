@@ -57,3 +57,14 @@
 </div>
 
 ###
+
+
+###
+
+<h3 align="left">More about me</h3>
+
+![status](https://api.statusbadges.me/badge/status/518666147441278998?style=for-the-badge)
+![vscode](https://api.statusbadges.me/badge/vscode/518666147441278998?style=for-the-badge)
+![spotify](https://api.statusbadges.me/badge/spotify/518666147441278998?style=for-the-badge)
+
+###
